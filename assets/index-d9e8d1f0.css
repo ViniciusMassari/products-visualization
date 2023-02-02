@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}a{color:inherit;text-decoration:none}.animeLeft{opacity:0;transform:translate(-20px);animation:animeLeft .3s forwards}@keyframes animeLeft{to{opacity:initial;transform:initial}}
